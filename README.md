@@ -1,4 +1,4 @@
-# Data Journalism - Mrinalini's Version
+# Data Skills
 
 I'm a data-driven business and economics reporter based in Manhattan, New York, with 16 months of graduate school experience. Through this program, not only did I learn that data analysis is at the core of most investigative projects in today's world, but I developed the confidence to back my reporting with data. Suppose you, like me, have felt like your voice as a journalist could be emboldened by solid proof in the form of data, which could range from salaries for public servants to energy units required to run large language models. In that case, you only need to learn Python for journalists. 
 
@@ -98,7 +98,7 @@ NLP helped me tokenize each word and categorize the data into larger buckets for
 Using AI to generate code scripts to aid data analysis. 
 
 
-### Notebooks
+### Folders
 1. Introduction to Jupyter Notebooks
 2. Python Investigations
 3. Advanced scraping
