@@ -15,7 +15,7 @@ Alongside all this, I set up my first GitHub account and uploaded all demos and 
 My first project, which was also a class assignment, was a story on immigrant communities facing language barriers in New York City. I learned how to write html and css code along with data wrapper charts and maps embedded in it. The full story is available here. 
 Another crucial learning point: is how to organize files and folders to avoid confusion. If styles.css is not in the same folder as index.html, my website won’t show any style elements, no matter how much I try linking the two. 
 
-# Final Project: [Lost in Translation](https://github.com/meanieminnie/Lost-in-translation)
+### Final Project: [Lost in Translation](https://github.com/meanieminnie/Lost-in-translation)
 
 ## Second Semester: Introduction to Python, Pandas
 *Clean, Analyse, Vizualize*
