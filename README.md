@@ -104,11 +104,13 @@ Using AI to generate code scripts to aid data analysis.
 8. Advanced Scraping: I learned advanced scraping techniques during the second half of the semester, as a way to advance my investigative Python skills. 
 These skills are invaluable when it comes to investigating publicly available data on government and agency websites. Tough as it sounds, thinking like an investigator is a lifelong skill, and the more you throw yourself into it, the better you get at it. 
 
-Static URL:  When the website URL doesn’t change no matter which page you target, you try to scrape the contents, divide it into a list of dictionaries, and then slice that list to target the required information. A lot of this skill relies on Pandas operations learned in previous classes. 
-Javascript scrape: This involves scraping the website using JSON.
-API Scrape
-Scrollers: In this, we learned how to scrape pages with endless scrolling. 
 
+Website type  | Remarks
+------------- | -------------
+Static URL  | When the website URL doesn’t change no matter which page you target, you try to scrape the contents, divide it into a list of dictionaries, and then slice that list to target the required information. A lot of this skill relies on Pandas operations learned in previous classes. 
+Javascript scrape | This involves scraping the website using JSON.
+API Scrape | Create API pipeline to directly scrape from the website. 
+Scrollers | we learned how to scrape pages with endless scrolling. 
 
 
 ### Folders
