@@ -1,6 +1,6 @@
 # Data Skills
 
-I'm a data-driven business and economics reporter based in Manhattan, New York, with 16 months of graduate school experience. Through this program, not only did I learn that data analysis is at the core of most investigative projects in today's world, but I developed the confidence to back my reporting with data. Suppose you, like me, have felt like your voice as a journalist could be emboldened by solid proof in the form of data, which could range from salaries for public servants to energy units required to run large language models. In that case, you only need to learn Python for journalists. 
+I'm a data-driven business and economics reporter based in Manhattan, New York, with 16 months of graduate school experience. Through this program, not only did I learn that data analysis is at the core of most investigative projects in today's world, but I developed the confidence to back my reporting with data. Suppose you, like me, have felt like your voice as a journalist could be encouraged by solid proof in the form of data, ranging from salaries for public servants to energy units required to run large language models. In that case, you only need to learn Python for journalists. 
 
 I was a novice when I started my journey as a data reporter. I began by building websites using HTML and CSS. Starting from scratch, I delved into both front-end and back-end development, allowing me to experiment with dynamic website design. This is the story of how I built my coding skills in three different languages to analyze, chart, and contextualize data to support my journalism. 
 
@@ -84,7 +84,7 @@ I never thought I’d make it this far as a data journalist. I’d learned Panda
 
 But if someone told me I’d be learning things that seasoned programmers struggle with at times, I wouldn’t believe them. That I’d be running programs to extract information from websites, instead of spending hours copying it, I’d be relieved, to say the least. 
 
-But why am I learning any of this? I want to simplify the process of gaining publicly available information, especially if it’s hidden from plain view. I want to distill this information, and add important context for readers of all kinds. And so, I began learning Python for complex investigations in journalism. 
+But why am I learning any of this? I want to simplify the process of gaining publicly available information, especially if it’s hidden from plain view. I want to distill this information and add important context for readers of all kinds. So, I began learning Python for complex investigations in journalism. 
 
 List of tasks:
 1. Scrape
@@ -95,7 +95,18 @@ I learned how to formulate and use regular expressions to search for patterns th
 3. Natural Language Processing (NLP)
 NLP helped me tokenize each word and categorize the data into larger buckets for further analysis. 
 4. Artificial Intelligence
-Using AI to generate code scripts to aid data analysis. 
+Using AI to generate code scripts to aid data analysis.
+5. Python functions: I defined specific and universal functions in Python. Functions are reusable programs that store a set of complex instructions which aid our code. It saves time and effort. 
+6. Gender Estimator: Python has a library called Genderize that calculates the gender probability of a proper noun. The only limitation is that it operates in the binary - male or female. 
+7. Fuzzy Wuzzy: Cool word, cooler function! Fuzzywuzzy is a similarity algorithm that calculates the number of changes (additions, deletions, and moves) that are required to make one string identical to another. 
+8. Advanced Scraping: I learned advanced scraping techniques during the second half of the semester, as a way to advance my investigative Python skills. 
+These skills are invaluable when it comes to investigating publicly available data on government and agency websites. Tough as it sounds, thinking like an investigator is a lifelong skill, and the more you throw yourself into it, the better you get at it. 
+
+Static URL:  When the website URL doesn’t change no matter which page you target, you try to scrape the contents, divide it into a list of dictionaries, and then slice that list to target the required information. A lot of this skill relies on Pandas operations learned in previous classes. 
+Javascript scrape: This involves scraping the website using JSON.
+API Scrape
+Scrollers: In this, we learned how to scrape pages with endless scrolling. 
+
 
 
 ### Folders
