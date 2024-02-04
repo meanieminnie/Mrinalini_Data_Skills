@@ -108,9 +108,9 @@ These skills are invaluable when it comes to investigating publicly available da
 Website type  | Remarks
 ------------- | -------------
 Static URL  | When the website URL doesn’t change no matter which page you target, you try to scrape the contents, divide it into a list of dictionaries, and then slice that list to target the required information. A lot of this skill relies on Pandas operations learned in previous classes. 
-Javascript scrape | This involves scraping the website using JSON.
-API Scrape | Create API pipeline to directly scrape from the website. 
-Scrollers | we learned how to scrape pages with endless scrolling. 
+Javascript scrapes | This involves scraping the website using JSON.
+API Scrape | Authorize API client. Make a GET request to the website API to fetch text for a particular query. Parse the text to look for important patterns. 
+Scrollers | We learned how to scrape pages with endless scrolling. 
 
 
 ### Folders
