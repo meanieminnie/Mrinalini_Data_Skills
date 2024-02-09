@@ -19,6 +19,7 @@ Another crucial learning point: is how to organize files and folders to avoid co
 
 ## Second Semester: Introduction to Python, Pandas
 *Clean, Analyse, Vizualize*
+
 The second semester started on a completely different note. I was suddenly dealing with Jupyter Notebooks, anaconda, and github. Unbeknownst to me, these three would become my constant companions throughout the next year. 
 I’d heard my software developer friends talk about Python with great anguish. At first encounter, Python looks a little intimidating. Like any new language, I had to start with the basics. 
 1. What can Python do? It can run simple calculations like addition, subtraction, multiplication, and division. It imports different libraries - which are pre-packaged code environments - for specific applications. 
